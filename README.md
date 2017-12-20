@@ -5,5 +5,6 @@ Get the heatmap based on Google Location History information
 
 **Todo**
 - ~~Let's plan to complete it by Dec 23rd, 2017~~
+- This version turnedout to be a static version, a better dynamic version is found at https://github.com/theopolisme/location-history-visualizer
 
 ![alt tag](public/heatmap_console.png "sample output of the heatmap generated using google location and maps api")
