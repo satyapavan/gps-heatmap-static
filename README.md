@@ -3,7 +3,7 @@ Get the heatmap based on Google Location History information
 
 **How to run,**
 1. `npm install`
-2. Update the `API_KEY` in `index.html` file
+2. Update the `YOUR_API_KEY_HERE` in `index.html` file
 3. Store the `location.json` file into `public` directory (this may need to be downloaded from Google)
 4. `node app.js`
 5. voila!! `localhost:3000`
